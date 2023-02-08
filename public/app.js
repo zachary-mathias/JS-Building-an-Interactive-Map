@@ -1,19 +1,32 @@
-// create map
-
-
-// add openstreetmap tiles
-
-
-// create and main add geolocation marker
-
-
-// draw the 2nd arrondissement
-
-
-// create red pin marker
-
-
-// metro station markers
+//Note: You do NOT need to create an external JS file for this project despite any instructions you may see in Canvas. This file, app.js, is the only external JS file you need.
 
 
 
+// Create map
+
+
+
+
+// Add openstreetmap tiles
+
+
+
+//Note: Replace 'https://.tile.openstreetmap.org///.png' with 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png' in this copy/paste part in the Canvas activity instructions
+
+
+// Create and add a geolocation marker
+
+
+
+
+// Draw the 2nd arrondissement
+
+
+
+
+// Metro station markers
+
+
+
+
+// Create red pin marker
